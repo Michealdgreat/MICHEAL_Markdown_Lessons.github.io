@@ -22,7 +22,7 @@ Here's some words about the book _One Hundred Years..._.
 Do you want to [www.zombo.com] [a fun place]?
 Well, do I have [www.stumbleupon.com] [another fun place]!
 
-[A Big Tiger] (https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+[A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
 [Black cat][Black]

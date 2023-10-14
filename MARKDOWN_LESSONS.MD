@@ -9,7 +9,7 @@ _**"Of course," she whispered. Then, she shouted: "All I need is a little moxie!
 ##### Header five #####
 ###### Header six ######
 
-####_Colombian Symbolism in One Hundred Years of Solitude_####
+#### _Colombian Symbolism in One Hundred Years of Solitude_ ####
 
 Here's some words about the book _One Hundred Years..._.
 

@@ -21,8 +21,8 @@ Here's some words about the book _One Hundred Years..._.
 
 #### The Latest News from [the BBC](www.bbc.com/news) ####
 
-Do you want to [www.zombo.com] [a fun place]?
-Well, do I have [www.stumbleupon.com] [another fun place]!
+Do you want to [a fun place][www.zombo.com]?
+Well, do I have [another fun place][www.stumbleupon.com]!
 
 [A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 

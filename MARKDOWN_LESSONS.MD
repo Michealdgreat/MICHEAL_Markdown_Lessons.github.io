@@ -15,15 +15,15 @@ _**"Of course," she whispered. Then, she shouted: "All I need is a little moxie!
 
 Here's some words about the book _One Hundred Years..._.
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
 [**You're really, really going to want to see this.**](www.dailykitten.com)
 
 #### The Latest News from [the BBC](www.bbc.com/news) ####
 
-Do you want to =[a fun place][www.zombo.com]?
+Do you want to =[a fun place][https://www.zombo.com]?
 
-Well, do I have [another fun place][www.stumbleupon.com]!
+Well, do I have [another fun place][https://www.stumbleupon.com]!
 
 [A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 

@@ -29,7 +29,7 @@ Well, do I have [www.stumbleupon.com] [another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 [Orange cat][Orange]
-[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
 I read this interesting quote the other day:

@@ -25,6 +25,8 @@ Do you want to [https://www.zombo.com][a fun place] ?
 
 Well, do I have [another fun place]: https://www.stumbleupon.com !
 
+[arbitrary case-insensitive reference text]: https://www.somewebsite.org
+
 
 
 [A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)

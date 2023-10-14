@@ -27,12 +27,11 @@ Well, do I have [www.stumbleupon.com] [another fun place]!
 [A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
-[Black cat][Black]
 [Black]:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+[Black cat][Black]
 
-[Orange cat][Orange]
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
-
+[Orange cat][Orange]
 
 I read this interesting quote the other day:
 

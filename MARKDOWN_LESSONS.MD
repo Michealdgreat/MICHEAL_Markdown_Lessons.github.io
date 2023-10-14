@@ -23,9 +23,9 @@ Here's some words about the book _One Hundred Years..._.
 
 Do you want to [https://www.zombo.com][a fun place] ?
 
-Well, do I have [https://www.stumbleupon.com][another fun place] !
+Well, do I have [another fun place]: https://www.stumbleupon.com !
 
-[You can use numbers for reference-style link definitions][1]
+
 
 [A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 

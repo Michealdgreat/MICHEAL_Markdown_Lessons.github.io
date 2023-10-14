@@ -17,12 +17,12 @@ Here's some words about the book _One Hundred Years..._.
 
 [**You're really, really going to want to see this.**](www.dailykitten.com)
 
-####The Latest News from [the BBC](www.bbc.com/news)####
+#### The Latest News from [the BBC](www.bbc.com/news) ####
 
 Do you want to [www.zombo.com][a fun place]?
 Well, do I have [www.stumbleupon.com][another fun place]!
 
-[A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+[A Big Tiger] (https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
 [Black cat][Black]

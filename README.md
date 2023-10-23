@@ -26,14 +26,14 @@ Do you want to [a fun place](https://www.zombo.com)?
 Well, do I have [another fun place](https://www.stumbleupon.com)!
 
 
-[A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![A Big Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
-https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-[Black cat][Black]
+![Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
-[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
-[Orange cat][Orange]
+
+![Orange](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
+
 
 I read this interesting quote the other day:
 
